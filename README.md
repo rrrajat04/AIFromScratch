@@ -1,1 +1,3 @@
 # AIFromScratch
+
+In Progress.....
